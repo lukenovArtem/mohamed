@@ -1,0 +1,15 @@
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\bin\Debug\net8.0\Calculator.exe
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\bin\Debug\net8.0\Calculator.dll
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\bin\Debug\net8.0\Calculator.pdb
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\obj\Debug\net8.0\Calculator.sourcelink.json
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\obj\Debug\net8.0\Calculator.dll
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\obj\Debug\net8.0\Calculator.pdb
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\TOP\Source\Repos\mohamed\ConsoleApp12\obj\Debug\net8.0\ref\Calculator.dll
